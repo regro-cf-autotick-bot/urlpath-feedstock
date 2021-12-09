@@ -1,7 +1,7 @@
 About urlpath
 =============
 
-Home: https://github.com/chrono-meter/urlpath
+Home: https://github.com/brandonschabell/urlpath
 
 Package license: PSF-2.0
 
