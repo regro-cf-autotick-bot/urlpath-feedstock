@@ -1,5 +1,5 @@
 {% set name = "urlpath" %}
-{% set version = "1.1.7" %}
+{% set version = "1.2.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/urlpath-{{ version }}.tar.gz
-  sha256: a280a6cb1e107d9597cc1f320cf93b6b3cb7d15876434a922cdbc0314a87221f
+  sha256: e54c0c82db4894a7217772150bdbc01413794576996e7834f81d67f22359c9d0
 
 build:
   number: 0
@@ -32,7 +32,7 @@ test:
     - pip
 
 about:
-  home: https://github.com/chrono-meter/urlpath
+  home: https://github.com/brandonschabell/urlpath
   summary: Object-oriented URL from `urllib.parse` and `pathlib`
   license: PSF-2.0
   license_file: LICENSE
