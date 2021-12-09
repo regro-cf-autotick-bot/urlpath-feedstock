@@ -32,7 +32,7 @@ test:
     - pip
 
 about:
-  home: https://github.com/chrono-meter/urlpath
+  home: https://github.com/brandonschabell/urlpath
   summary: Object-oriented URL from `urllib.parse` and `pathlib`
   license: PSF-2.0
   license_file: LICENSE
